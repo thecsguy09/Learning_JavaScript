@@ -1,5 +1,5 @@
-const name2 = new String('hiteshhc');
-const newString2 = name2.slice(-8,4)
+const name = new String('hiteshhc');
+const newString2 = name.slice(-8,4)
 console.log(newString2); // hite
 
 const NewString = " kunal  ";
